@@ -1,5 +1,4 @@
 # C-_DoublyLinkedList_PC
-/*
 A doubly linked list for storage of pc characters
 "exit"- exits program 
 "load" <file> - loads a text file
@@ -8,4 +7,4 @@ A doubly linked list for storage of pc characters
 "set" <name><stat><val> - sets a player's (name) race/job/level (stat) with a string value for race/job inputs & an int input for level updates (val)
 "search" <stat><val> - displays all characters that have the race/job/level (stat) with a string value for all race/job searches & an int val for all level searches (val)
 "display" - Displays all saved players and their stats
-*/
+
