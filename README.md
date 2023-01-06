@@ -1,6 +1,6 @@
 # C-_DoublyLinkedList_PC
 A doubly linked list for storage of pc characters
-"exit"- exits program \n
+"exit"- exits program 
 "load" <file> - loads a text file
 "add" <name> - adds a player to the list with generic stats
 "remove" <name> - removes player from list
