@@ -1,4 +1,4 @@
-1#pragma once
+#pragma once
 #include "PC.h"
 
 class Node :public PC
